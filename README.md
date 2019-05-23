@@ -9,8 +9,7 @@ for Children of Revulsion at the Killjoy Collective
 ## Gifs of Environment
 It is Hard to Get to Where You Will Never Find
 ![It is Hard to Get to Where You Will Never Find - gif #1](demo_gifs/neverfind1.gif)
-![It is Hard to Get to Where You Will Never Find - gif #2](demo_gifs/neverfind2.gif)
-
+![It is Hard to Get to Where You Will Never Find - gif #2](demo_gifs/neverfind2.gif) 
 
 ## Press
 http://www.killjoypdx.com/events/2018/5/26/children-of-revulsion
